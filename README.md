@@ -1,4 +1,8 @@
-# bnb-sniper-bot
+# BNB Sniper bot, free to use
+
+## Buy tokens instantly on the lowest price during the lauchpads
+
+An advanced bot is "trained" to get around most anti-bot protections
 
 # https://moonbotapp.com/
 
